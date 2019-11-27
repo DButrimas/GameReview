@@ -1,0 +1,59 @@
+.navbar.custom{
+  border-radius: 0;
+}
+.navbarLogo{
+  width: 50px;
+}
+.imgHome{
+  width: 260px;
+  margin: auto;
+  border-radius: 8px;
+  max-width: -webkit-fill-available;
+  height: 150px;
+}
+img.os{
+  width: 22px;
+  padding: 2px;
+  height: 23px;
+
+}
+p.title{
+  margin: auto;
+  text-align: center;
+}
+div.col-grid{
+  text-align: center;
+}
+div.main:hover{
+  background-color: #a9a9a985;
+}
+div.usrLikes:hover{
+  background-color: #a9a9a985;
+}
+.contactForm{
+  margin: auto;
+}
+.contactName{
+  max-width: 200px;
+}
+.contactEmail{
+  max-width: 300px;
+}
+.contactMessage{
+  max-width: 470px;
+  max-height: 160px;
+}
+.contactBtnS{
+  margin-left: 15px;
+}
+.table>tbody>tr>td,
+.table>tbody>tr>th {
+  border-top: none;
+}
+a > .glyphicon{
+color: gray;
+}
+
+ a:hover > .glyphicon{
+  color: red;
+}
